@@ -1,0 +1,3 @@
+rootProject.name = 'civics_economic_revi_2849'
+
+include ':app'
